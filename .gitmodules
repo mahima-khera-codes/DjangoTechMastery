@@ -1,0 +1,136 @@
+[submodule "apps/djangoproject.com"]
+	path = apps/djangoproject.com
+	url = git@github.com:django/djangoproject.com.git
+	branch = main
+[submodule "apps/posthog"]
+	path = apps/posthog
+	url = git@github.com:PostHog/posthog.git
+	branch = master
+[submodule "apps/NewsBlur"]
+	path = apps/NewsBlur
+	url = git@github.com:samuelclay/NewsBlur.git
+	branch = master
+[submodule "apps/reviewboard"]
+	path = apps/reviewboard
+	url = git@github.com:reviewboard/reviewboard.git
+	branch = master
+[submodule "apps/readthedocs"]
+	path = apps/readthedocs
+	url = git@github.com:readthedocs/readthedocs.org.git
+	branch = main
+[submodule "apps/ArchiveBox"]
+	path = apps/ArchiveBox
+	url = git@github.com:ArchiveBox/ArchiveBox.git
+	branch = dev
+[submodule "apps/librephotos"]
+	path = apps/librephotos
+	url = git@github.com:LibrePhotos/librephotos.git
+	branch = dev
+[submodule "apps/doccano"]
+	path = apps/doccano
+	url = git@github.com:doccano/doccano.git
+	branch = master
+[submodule "apps/djangopackages"]
+	path = apps/djangopackages
+	url = git@github.com:djangopackages/djangopackages.git
+	branch = main
+[submodule "apps/askbot-devel"]
+	path = apps/askbot-devel
+	url = git@github.com:ASKBOT/askbot-devel.git
+	branch = master
+[submodule "apps/kitsune"]
+	path = apps/kitsune
+	url = git@github.com:mozilla/kitsune.git
+	branch = main
+[submodule "apps/healthchecks"]
+	path = apps/healthchecks
+	url = git@github.com:healthchecks/healthchecks.git
+	branch = master
+[submodule "apps/sentry"]
+	path = apps/sentry
+	url = git@github.com:getsentry/sentry.git
+	branch = master
+[submodule "apps/taiga-back"]
+	path = apps/taiga-back
+	url = git@github.com:taigaio/taiga-back.git
+	branch = main
+[submodule "apps/edx-platform"]
+	path = apps/edx-platform
+	url = git@github.com:openedx/edx-platform.git
+	branch = master
+[submodule "apps/modoboa"]
+	path = apps/modoboa
+	url = git@github.com:modoboa/modoboa.git
+	branch = master
+[submodule "apps/plane"]
+	path = apps/plane
+	url = git@github.com:makeplane/plane.git
+	branch = preview
+[submodule "apps/bedrock"]
+	path = apps/bedrock
+	url = git@github.com:mozilla/bedrock.git
+	branch = main
+[submodule "apps/bookwyrm"]
+	path = apps/bookwyrm
+	url = git@github.com:bookwyrm-social/bookwyrm.git
+	branch = main
+[submodule "apps/pythondotorg"]
+	path = apps/pythondotorg
+	url = git@github.com:python/pythondotorg.git
+	branch = main
+[submodule "apps/paperless-ngx"]
+	path = apps/paperless-ngx
+	url = git@github.com:paperless-ngx/paperless-ngx.git
+	branch = dev
+[submodule "apps/fragdenstaat_de"]
+	path = apps/fragdenstaat_de
+	url = git@github.com:okfde/fragdenstaat_de.git
+	branch = main
+[submodule "apps/zulip"]
+	path = apps/zulip
+	url = git@github.com:zulip/zulip.git
+	branch = main
+[submodule "apps/netbox"]
+	path = apps/netbox
+	url = git@github.com:netbox-community/netbox.git
+	branch = develop
+[submodule "apps/cvat"]
+	path = apps/cvat
+	url = git@github.com:cvat-ai/cvat.git
+	branch = develop
+[submodule "apps/pretix"]
+	path = apps/pretix
+	url = git@github.com:pretix/pretix.git
+	branch = master
+[submodule "apps/flagsmith"]
+	path = apps/flagsmith
+	url = git@github.com:Flagsmith/flagsmith.git
+	branch = main
+[submodule "apps/oncall"]
+	path = apps/oncall
+	url = git@github.com:grafana/oncall.git
+	branch = dev
+[submodule "apps/graphite-web"]
+	path = apps/graphite-web
+	url = git@github.com:graphite-project/graphite-web.git
+	branch = master
+[submodule "apps/Django-CRM"]
+	path = apps/Django-CRM
+	url = git@github.com:MicroPyramid/Django-CRM.git
+	branch = master
+[submodule "apps/wagtail"]
+	path = apps/wagtail
+	url = git@github.com:wagtail/wagtail.git
+	branch = main
+[submodule "apps/saleor"]
+	path = apps/saleor
+	url = git@github.com:saleor/saleor.git
+	branch = main
+[submodule "apps/django-cms"]
+	path = apps/django-cms
+	url = git@github.com:django-cms/django-cms.git
+	branch = develop
+[submodule "apps/django-oscar"]
+	path = apps/django-oscar
+	url = git@github.com:django-oscar/django-oscar.git
+	branch = master
